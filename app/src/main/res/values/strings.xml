@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Inventory App 1 Stage</string>
+
+
+    //game's category
+    <string name="category_rpg">Role Playing Game</string>
+    <string name="category_simulator">Simulator game</string>
+    <string name="category_1stPerson">1st Person game</string>
+    <string name="category_adventure">Adventure game</string>
+    <string name="category_rts">Real Time Strategy game</string>
+    <string name="category_puzzle">Puzzle Game</string>
+    <string name="category_action">Action game</string>
+    <string name="category_combat">Combat game</string>
+    <string name="category_educational">Educational game</string>
+    <string name="category_unknown">Unknown</string>
+
+
+
+
+</resources>
